@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devtem
+- 👀 I’m interested in learning Full Stack Python
+- 🌱 I’m currently learning Django
